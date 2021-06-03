@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices of Ireland. Sydney, Tho. Coningsby. Whereas it is of great importance as well to the inhabitants of the city of Dublin, as also that part of their Majesties army that is garrisoned here; ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24818</idno><idno type="EEBO-CITATION">99887817</idno>
+  <idno type="VID">190833</idno>
+  <idno type="EEBO-PROQUEST">2240896430</idno>
+  
+            <idno type="STC">Wing I847</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.3[111]</idno>
+            <idno type="STC">ESTC R228431</idno>
+            <idno type="PROQUEST">ocm99887817</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887817e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190833)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement C24:1[111])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices of Ireland. Sydney, Tho. Coningsby. Whereas it is of great importance as well to the inhabitants of the city of Dublin, as also that part of their Majesties army that is garrisoned here; ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook assignee of Benj. Tooke, printer to the King and Queens Most Excellent Majesties; and re-printed at London for him,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at their Majesties castle on Dublin, the 16th day of September 1690. and in the second year of their Majesties reign.".</note>
+                  <note>Two proclamations: the first concerning the markets, the second for the transportation of coals to Dublin. Both were also printed separately.</note>
+                  <note>Steele notation: Arms 197. well said p.2) been will.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration_of_the_Lords_Justices">
+            <pb facs="tcp:190833:1"/>
+            <pb facs="tcp:190833:1"/>
+            <head>
+               <figure>
+                  <head>.W .3. R .M .2.</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lords Justices of Ireland.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>29. Sept. 1690.</add>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>SYDNEY.</item>
+                     <item>THO. CONINGSBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS it is of great Importance, as well to the Inhabitants of the City of <hi>Dublin,</hi> as also that part of Their Majesties Army that is Garisoned here, That the Markets of the said City be well supplied with Provisions, which for some time hath been Obstructed by the Abuses committed on the Persons, Horses and Goods of People going to the said Markets, by several Officers and Sol<g ref="char:EOLhyphen"/>diers, for their own private Advantage, though under the pretence of Their Majesties Service; We do therefore strictly Charge and Command all Their Majesties good Subjects within this Kingdom, That they do not, upon any pretence whatsoever, presume to di<g ref="char:EOLhyphen"/>sturb or prejudice any Person or Persons repairing to the said Markets of the City of <hi>Dublin,</hi> nor Press any Horse or Horses of any persons whatsoever within Ten Miles of the said City, without special Warrant in Writing first had and obtained from Us for that purpose, as they will answer the contrary at their Peril.</p>
+            <closer>
+               <dateline>Given at Their Majesties Castle of <hi>Dublin,</hi>
+                  <date>the 16th day of <hi>September</hi> 1690. and in the Second Year of Their Majesties Reign.</date>
+               </dateline>
+               <signed>JO. DAVIS.</signed>
+            </closer>
+         </div>
+         <div type="declaration_of_the_Lords_Justices">
+            <pb facs="tcp:190833:2"/>
+            <head>
+               <figure>
+                  <head>.W .3. R .M .2.</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lords Justices of Ireland.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>SYDNEY.</item>
+                     <item>THO. CONINGSBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the City of <hi>Dublin</hi> hath usually been furnished with Coals from <hi>Whitehaven</hi> and <hi>Moston,</hi> and other Parts and Places in the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> from which Parts very small Quantities have of late been imported, by reason that the Mariners and Sea<g ref="char:EOLhyphen"/>men that should import the same are under ap<g ref="char:EOLhyphen"/>prehensions of being Pressed, and taken out of their Vessels, under pretence of Their Majesties Service; We have, for the prevention of the great Inconvenience which would arrive to the said City of <hi>Dublin,</hi> by the want of Fuel this Winter-Season, thought fit hereby to give Our Protection to all such Ships and Mariners as shall be employed in Transporting Coals from any part of <hi>England</hi> or <hi>Wales</hi> unto the said City of <hi>Dublin;</hi> And We do hereby accordingly strictly Charge and Require all Commanders of Ships, Press Masters, and all other Their Majesties Subjects, not to molest or disturb any of the Ships aforesaid, nor Press any of the Mariners belonging to such Ships, as they will answer the contrary at their Peril.</p>
+            <closer>
+               <dateline>Given at Their Majesties Castle of <hi>Dublin,</hi>
+                  <date>the 16th day of <hi>September</hi> 1690. and in the Second Year of Their Majesties Reign.</date>
+               </dateline>
+               <lb/> GOD Save the KING and QUEEN.<lb/>
+               <signed>JO. DAVIS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin:</hi> Printed by <hi>Andrew Crook,</hi> Assignee of <hi>Benj. Tooke,</hi> Printer to the King and Q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eens Most Excellent Majesties; And Re-printed at <hi>London</hi> for Him. 1690.</p>
+            <pb facs="tcp:190833:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
